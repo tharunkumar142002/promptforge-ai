@@ -1,0 +1,4 @@
+# Compatible version ranges; Python 3.12 recommended
+streamlit>=1.40,<2.0
+groq>=0.20,<1.0
+python-dotenv>=1.0,<2.0

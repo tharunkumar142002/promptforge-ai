@@ -1,0 +1,4 @@
+input,expected_keywords
+"What does RAG stand for?","retrieval;generation"
+"What is the primary purpose of few-shot prompting?","examples"
+"Explain two common parts of a chat completion request.","messages;model"
